@@ -9,7 +9,7 @@ kevinsimarmata/kevinsimarmata is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-**Final Project Information**
+**Final Project Info**
 
 Last year I took a Data Science course at Rakamin Academy, for 3 months. The final project in the course is predicting airline customer satisfaction. This prediction
 will help the business team provide the best service to satisfy airline customers and make dissatisfied customers satisfied.
